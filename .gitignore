@@ -16,3 +16,4 @@
 .com.apple.timemachine.donotpresent
 
 node_modules/
+db.json
